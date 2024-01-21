@@ -1,0 +1,122 @@
+[
+    {
+        "article_name": "The Thrill of Victory",
+        "article_description": "Explore the exhilarating world of competitive sports and the joy of winning.",
+        "article_tag": "Sport",
+        "article_img": "https://plus.unsplash.com/premium_photo-1705421624826-8276b4fe4c08?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "01/15/2023",
+        "article_owner": "Alice Johnson",
+        "article_id": "5156c233-2b1d-43ac-992c-ce71eb68a951",
+        "article_read": "3 min"
+    },
+    {
+        "article_name": "Artistry in Motion",
+        "article_description": "Dive into the graceful art of dance and the stories it tells through movement.",
+        "article_tag": "Art",
+        "article_img": "https://images.unsplash.com/photo-1682686578023-dc680e7a3aeb?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "02/28/2023",
+        "article_owner": "Bob Smith",
+        "article_id": "dc1bbdbe-5041-4f2c-8fa5-ec3d79f04c39",
+        "article_read": "2 min"
+    },
+    {
+        "article_name": "A Culinary Adventure",
+        "article_description": "Embark on a flavorful journey exploring the world of diverse cuisines and culinary delights.",
+        "article_tag": "Food",
+        "article_img": "https://images.unsplash.com/photo-1705507367127-c90cc471517d?q=80&w=1402&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "04/10/2023",
+        "article_owner": "Charlie Brown",
+        "article_id": "56ad8e0a-eb9e-48a9-9aa2-cc823b13547c",
+        "article_read": "4 min"
+    },
+    {
+        "article_name": "Exploring the Cosmos",
+        "article_description": "Uncover the mysteries of the universe and the wonders of space exploration.",
+        "article_tag": "Science",
+        "article_img": "https://images.unsplash.com/photo-1705518800431-4d4ce18d5b11?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "05/22/2023",
+        "article_owner": "Diana Miller",
+        "article_id": "be924952-5040-4135-a49d-bfa8d90155af",
+        "article_read": "5 min"
+    },
+    {
+        "article_name": "Innovations in Technology",
+        "article_description": "Discover the latest breakthroughs and innovations shaping the world of technology.",
+        "article_tag": "Technology",
+        "article_img": "https://images.unsplash.com/photo-1705622445363-7636870b9e7e?q=80&w=1474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "07/03/2023",
+        "article_owner": "Ethan Wilson",
+        "article_id": "e1013ed2-4e7c-4192-96f1-56f60d2a8d33",
+        "article_read": "6 min"
+    },
+    {
+        "article_name": "Serenade of Strings",
+        "article_description": "Immerse yourself in the enchanting world of classical music and the beauty of string instruments.",
+        "article_tag": "Music",
+        "article_img": "https://images.unsplash.com/photo-1705591114000-ece3ec963f4b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "08/15/2023",
+        "article_owner": "Fiona Davis",
+        "article_id": "1907bb06-4b8f-41c3-a268-04015f65bd66",
+        "article_read": "3 min"
+    },
+    {
+        "article_name": "Beyond the Canvas",
+        "article_description": "Explore the expressive realm of contemporary art and the stories behind the canvases.",
+        "article_tag": "Art",
+        "article_img": "https://images.unsplash.com/photo-1705518648497-e4ea72bcb27d?q=80&w=1530&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "09/28/2023",
+        "article_owner": "George White",
+        "article_id": "b5f73d5a-384c-47e8-b113-96354b1130df",
+        "article_read": "4 min"
+    },
+    {
+        "article_name": "Journey into History",
+        "article_description": "Step back in time and unravel the tales of historical events and remarkable individuals.",
+        "article_tag": "History",
+        "article_img": "https://images.unsplash.com/photo-1705582350747-b5c716d1aa45?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "11/05/2023",
+        "article_owner": "Helen Martin",
+        "article_id": "0899517f-5565-4a23-87ca-019415650f37",
+        "article_read": "5 min"
+    },
+    {
+        "article_name": "The Dance of Light",
+        "article_description": "Witness the mesmerizing play of light and shadow in the world of photography and visual arts.",
+        "article_tag": "Photography",
+        "article_img": "https://images.unsplash.com/photo-1705343573351-09226424c8da?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "12/18/2023",
+        "article_owner": "Ian Taylor",
+        "article_id": "312de0b0-f609-4542-8f11-07e9e8dd63f2",
+        "article_read": "2 min"
+    },
+    {
+        "article_name": "Mindful Living",
+        "article_description": "Embrace a mindful approach to life and explore practices that enhance well-being.",
+        "article_tag": "Lifestyle",
+        "article_img": "https://images.unsplash.com/photo-1704973836219-4c9414787505?q=80&w=1388&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "01/30/2024",
+        "article_owner": "Jennifer Lee",
+        "article_id": "c1fb30b4-0d6f-471d-ae5b-43c8ffacbb27",
+        "article_read": "4 min"
+    },
+    {
+        "article_name": "Epic Adventures",
+        "article_description": "Embark on thrilling journeys through tales of epic adventures and heroic exploits.",
+        "article_tag": "Literature",
+        "article_img": "https://images.unsplash.com/photo-1705351953374-76117bc519e1?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "03/14/2024",
+        "article_owner": "Klaus Schmidt",
+        "article_id": "44c4c4e2-6221-47fe-92a8-cb4d3a561a61",
+        "article_read": "6 min"
+    },
+    {
+        "article_name": "Sustainable Living",
+        "article_description": "Discover sustainable practices and eco-friendly choices that contribute to a greener future.",
+        "article_tag": "Environment",
+        "article_img": "https://plus.unsplash.com/premium_photo-1703618158973-71467f6763ce?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "article_date": "04/25/2024",
+        "article_owner": "Linda",
+        "article_id": "bea22a8e-2564-4ef6-8d91-b3e74e480a3c",
+        "article_read": "3 min"
+    }
+]

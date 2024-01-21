@@ -1,0 +1,42 @@
+[
+    {
+        "podcast_name": "Podcast World",
+        "podcast_episodes": [
+            {
+                "podcast_Ep": "1",
+                "podcast_title": "Introduction to Podcast World",
+                "podcast_img": "https://images.unsplash.com/photo-1705321963943-de94bb3f0dd3?q=80&w=1644&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "podcast_date": "16.06.2022",
+                "podcast_duration": "1h 20 Min"
+            },
+            {
+                "podcast_Ep": "2",
+                "podcast_title": "Exploring the Podcast Universe",
+                "podcast_img": "https://images.unsplash.com/photo-1705649072877-c613039861cf?q=80&w=1444&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "podcast_date": "23.06.2022",
+                "podcast_duration": "1h 15 Min"
+            },
+            {
+                "podcast_Ep": "3",
+                "podcast_title": "Guest Interview: Insights from Experts",
+                "podcast_img": "https://images.unsplash.com/photo-1703702756941-3504879af434?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "podcast_date": "30.06.2022",
+                "podcast_duration": "1h 30 Min"
+            },
+            {
+                "podcast_Ep": "4",
+                "podcast_title": "Behind the Scenes: Podcast Creation",
+                "podcast_img": "https://images.unsplash.com/photo-1704439735567-11af78b213e3?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "podcast_date": "07.07.2022",
+                "podcast_duration": "1h 10 Min"
+            },
+            {
+                "podcast_Ep": "5",
+                "podcast_title": "Listener Q&A Session",
+                "podcast_img": "https://images.unsplash.com/photo-1705648233729-41ef14cc0d64?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+                "podcast_date": "14.07.2022",
+                "podcast_duration": "1h 25 Min"
+            }
+        ]
+    }
+]
