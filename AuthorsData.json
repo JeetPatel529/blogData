@@ -1,18 +1,21 @@
 [
     {
         "auth_name": "Alice Johnson",
+        "auth_id": "4b900b5b-1f4d-448b-9cb1-8d541917c830",
         "auth_job": "Sports Journalist",
         "auth_city": "New York",
         "auth_img": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "auth_name": "Bob Smith",
+        "auth_id": "c6e40f01-cbe3-4dcc-a053-e48396b1edac",
         "auth_job": "Dance Instructor",
         "auth_city": "Los Angeles",
         "auth_img": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "auth_name": "Charlie Brown",
+        "auth_id": "1f948892-ee99-4f7f-86e9-9d4c8bfc74e9",
         "auth_job": "Chef",
         "auth_city": "Paris",
         "auth_img": "https://images.unsplash.com/photo-1605993439219-9d09d2020fa5?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -20,12 +23,14 @@
     {
         "auth_name": "Diana Miller",
         "auth_job": "Astrophysicist",
+        "auth_id": "80d35c0b-d69b-4b70-b252-e3e7168d8c64",
         "auth_city": "Houston",
         "auth_img": "https://images.unsplash.com/photo-1520295187453-cd239786490c?q=80&w=1376&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         "auth_name": "Ethan Wilson",
         "auth_job": "Tech Innovator",
+        "auth_id": "5efa33a7-ee4e-4be1-89ec-4c184bc34126",
         "auth_city": "San Francisco",
         "auth_img": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
