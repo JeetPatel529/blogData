@@ -1,0 +1,1068 @@
+[
+    {
+        "name": "Elegant High Heels",
+        "available": "111",
+        "product_available": true,
+        "type": "shoes",
+        "sell_price": "80",
+        "origin_price": "80",
+        "reviews": [
+            {
+                "customer_name": "Jane Doe",
+                "customer_star": "4",
+                "customer_comments": "Comfortable and stylish!"
+            },
+            {
+                "customer_name": "John Smith",
+                "customer_star": "5",
+                "customer_comments": "Absolutely love these shoes!"
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img1"
+            },
+            {
+                "src": "img2"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "black",
+                "price": "40"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "white",
+                "price": "80"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "L",
+                "price": "20"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "XL",
+                "price": "120"
+            }
+        ]
+    },
+    {
+        "name": "Casual Sneakers",
+        "available": "12",
+        "type": "shoes",
+        "sell_price": "60",
+        "origin_price": "70",
+        "reviews": [
+            {
+                "customer_name": "Alice Johnson",
+                "customer_star": "5",
+                "customer_comments": "Perfect for everyday wear!"
+            },
+            {
+                "customer_name": "Bob Brown",
+                "customer_star": "4",
+                "customer_comments": "Great value for money."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img3"
+            },
+            {
+                "src": "img4"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "blue",
+                "price": "45"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "red",
+                "price": "65"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "M",
+                "price": "25"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "L",
+                "price": "30"
+            }
+        ]
+    },
+    {
+        "name": "Summer Floral Dress",
+        "available": "10",
+        "type": "dress",
+        "sell_price": "120",
+        "origin_price": "150",
+        "reviews": [
+            {
+                "customer_name": "Emily White",
+                "customer_star": "5",
+                "customer_comments": "Beautiful design, perfect for summer!"
+            },
+            {
+                "customer_name": "Michael Green",
+                "customer_star": "4",
+                "customer_comments": "Light and comfortable material."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img5"
+            },
+            {
+                "src": "img6"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "yellow",
+                "price": "130"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "blue",
+                "price": "140"
+            }
+        ]
+    },
+    {
+        "name": "Glamorous Handbag",
+        "available": "5",
+        "type": "accessory",
+        "sell_price": "120",
+        "origin_price": "150",
+        "reviews": [
+            {
+                "customer_name": "Alice Johnson",
+                "customer_star": "4",
+                "customer_comments": "Stylish and spacious!"
+            },
+            {
+                "customer_name": "Bob Miller",
+                "customer_star": "5",
+                "customer_comments": "High-quality material, worth the price!"
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img3"
+            },
+            {
+                "src": "img4"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "pink",
+                "price": "130"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "gold",
+                "price": "150"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "M",
+                "price": "120"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "L",
+                "price": "140"
+            }
+        ]
+    },
+    {
+        "name": "TechMaster Pro Earphones",
+        "available": "10",
+        "type": "electronics",
+        "sell_price": "60",
+        "origin_price": "80",
+        "reviews": [
+            {
+                "customer_name": "Chris Williams",
+                "customer_star": "5",
+                "customer_comments": "Amazing sound quality and comfortable to wear!"
+            },
+            {
+                "customer_name": "Emily Davis",
+                "customer_star": "4",
+                "customer_comments": "Great value for the price, love the design."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img5"
+            },
+            {
+                "src": "img6"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "black",
+                "price": "60"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "red",
+                "price": "70"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "S",
+                "price": "60"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "M",
+                "price": "60"
+            }
+        ]
+    },
+    {
+        "name": "Luxury Timepiece Collection",
+        "available": "15",
+        "type": "watches",
+        "sell_price": "350",
+        "origin_price": "500",
+        "reviews": [
+            {
+                "customer_name": "David Thompson",
+                "customer_star": "5",
+                "customer_comments": "Elegant design, precise timekeeping. Love it!"
+            },
+            {
+                "customer_name": "Sophia Rodriguez",
+                "customer_star": "4",
+                "customer_comments": "Great value for a luxury watch. Fast delivery too."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img7"
+            },
+            {
+                "src": "img8"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "silver",
+                "price": "350"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "gold",
+                "price": "400"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "Standard",
+                "price": "350"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "Limited Edition",
+                "price": "550"
+            }
+        ]
+    },
+    {
+        "name": "Ultimate Fitness Tracker",
+        "available": "20",
+        "type": "wearables",
+        "sell_price": "120",
+        "origin_price": "150",
+        "reviews": [
+            {
+                "customer_name": "Mark Turner",
+                "customer_star": "4",
+                "customer_comments": "Accurate data tracking and comfortable to wear during workouts."
+            },
+            {
+                "customer_name": "Emma White",
+                "customer_star": "5",
+                "customer_comments": "Sleek design and long battery life. A must-have for fitness enthusiasts!"
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img9"
+            },
+            {
+                "src": "img10"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "blue",
+                "price": "120"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "black",
+                "price": "130"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "Small",
+                "price": "120"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "Medium",
+                "price": "120"
+            }
+        ]
+    },
+    {
+        "name": "Chic Ankle Boots",
+        "available": "89",
+        "product_available": true,
+        "type": "shoes",
+        "sell_price": "120",
+        "origin_price": "150",
+        "reviews": [
+            {
+                "customer_name": "Emily Johnson",
+                "customer_star": "5",
+                "customer_comments": "Stylish and comfortable, perfect for any occasion!"
+            },
+            {
+                "customer_name": "Sophia Brown",
+                "customer_star": "4",
+                "customer_comments": "Love the design, but a bit tight on the toes."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img3"
+            },
+            {
+                "src": "img4"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "red",
+                "price": "130"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "brown",
+                "price": "120"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "blue",
+                "price": "140"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "M",
+                "price": "120"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "L",
+                "price": "130"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "XL",
+                "price": "140"
+            }
+        ]
+    },
+    {
+        "name": "Elegant Evening Gown",
+        "available": "65",
+        "product_available": true,
+        "type": "dress",
+        "sell_price": "250",
+        "origin_price": "300",
+        "reviews": [
+            {
+                "customer_name": "Olivia White",
+                "customer_star": "5",
+                "customer_comments": "Absolutely stunning! Fits perfectly."
+            },
+            {
+                "customer_name": "Emma Carter",
+                "customer_star": "4",
+                "customer_comments": "Beautiful design, but the fabric is a bit delicate."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img5"
+            },
+            {
+                "src": "img6"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "navy blue",
+                "price": "260"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "emerald green",
+                "price": "250"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "burgundy",
+                "price": "270"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "S",
+                "price": "250"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "M",
+                "price": "260"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "L",
+                "price": "270"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "XL",
+                "price": "280"
+            }
+        ]
+    },
+    {
+        "name": "Sophisticated Tote Bag",
+        "available": "45",
+        "product_available": true,
+        "type": "handbag",
+        "sell_price": "100",
+        "origin_price": "120",
+        "reviews": [
+            {
+                "customer_name": "Isabella Miller",
+                "customer_star": "5",
+                "customer_comments": "Love the quality and spacious design!"
+            },
+            {
+                "customer_name": "Grace Taylor",
+                "customer_star": "4",
+                "customer_comments": "Stylish, but the strap could be longer."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img7"
+            },
+            {
+                "src": "img8"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "black",
+                "price": "100"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "wine red",
+                "price": "110"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "taupe",
+                "price": "100"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "small",
+                "price": "100"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "medium",
+                "price": "110"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "large",
+                "price": "120"
+            }
+        ]
+    },
+    {
+        "name": "Casual Comfort Sneakers",
+        "available": "75",
+        "product_available": true,
+        "type": "shoes",
+        "sell_price": "60",
+        "origin_price": "70",
+        "reviews": [
+            {
+                "customer_name": "Sophie Adams",
+                "customer_star": "5",
+                "customer_comments": "Super comfortable and great for daily wear!"
+            },
+            {
+                "customer_name": "Ava Clark",
+                "customer_star": "4",
+                "customer_comments": "Stylish, but could use more arch support."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img9"
+            },
+            {
+                "src": "img10"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "gray",
+                "price": "60"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "pink",
+                "price": "65"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "teal",
+                "price": "60"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "US 6",
+                "price": "60"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "US 8",
+                "price": "65"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "US 10",
+                "price": "70"
+            }
+        ]
+    },
+    {
+        "name": "Sunshine Maxi Dress",
+        "available": "60",
+        "product_available": true,
+        "type": "dress",
+        "sell_price": "80",
+        "origin_price": "90",
+        "reviews": [
+            {
+                "customer_name": "Lily Moore",
+                "customer_star": "5",
+                "customer_comments": "Love the breezy feel and vibrant colors!"
+            },
+            {
+                "customer_name": "Chloe Davis",
+                "customer_star": "4",
+                "customer_comments": "Great for summer, but a bit loose around the waist."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img11"
+            },
+            {
+                "src": "img12"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "yellow floral",
+                "price": "85"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "turquoise",
+                "price": "80"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "coral",
+                "price": "90"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "XS",
+                "price": "80"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "S",
+                "price": "80"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "M",
+                "price": "80"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "L",
+                "price": "90"
+            }
+        ]
+    },
+    {
+        "name": "Chic Crossbody Bag",
+        "available": "50",
+        "product_available": true,
+        "type": "handbag",
+        "sell_price": "65",
+        "origin_price": "80",
+        "reviews": [
+            {
+                "customer_name": "Aria Martinez",
+                "customer_star": "5",
+                "customer_comments": "Perfect size and love the adjustable strap!"
+            },
+            {
+                "customer_name": "Grace Robinson",
+                "customer_star": "4",
+                "customer_comments": "Stylish, but the interior pockets are a bit small."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img13"
+            },
+            {
+                "src": "img14"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "product_color": "mauve",
+                "price": "70"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "navy blue",
+                "price": "65"
+            },
+            {
+                "product_imgs": "img",
+                "product_color": "olive green",
+                "price": "75"
+            }
+        ],
+        "size": [
+            {
+                "product_imgs": "img",
+                "product_size": "small",
+                "price": "65"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "medium",
+                "price": "70"
+            },
+            {
+                "product_imgs": "img",
+                "product_size": "large",
+                "price": "75"
+            }
+        ]
+    },
+    {
+        "name": "Fashionista Sunglasses",
+        "available": "40",
+        "product_available": true,
+        "type": "accessory",
+        "sell_price": "40",
+        "origin_price": "50",
+        "reviews": [
+            {
+                "customer_name": "Zara Taylor",
+                "customer_star": "5",
+                "customer_comments": "Stylish and provides great UV protection!"
+            },
+            {
+                "customer_name": "Sophie Anderson",
+                "customer_star": "4",
+                "customer_comments": "Love the design, but the frame feels a bit fragile."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img15"
+            },
+            {
+                "src": "img16"
+            }
+        ],
+        "colors": [
+            {
+                "product_imgs": "img",
+                "frame_color": "rose gold",
+                "lens_color": "gradient brown",
+                "price": "45"
+            },
+            {
+                "product_imgs": "img",
+                "frame_color": "black",
+                "lens_color": "smoke gray",
+                "price": "40"
+            },
+            {
+                "product_imgs": "img",
+                "frame_color": "tortoise shell",
+                "lens_color": "amber",
+                "price": "50"
+            }
+        ]
+    },
+    {
+        "name": "Luxury Tote Collection",
+        "available": "30",
+        "product_available": true,
+        "type": "handbag",
+        "sell_price": "150",
+        "origin_price": "200",
+        "reviews": [
+            {
+                "customer_name": "Eva Walker",
+                "customer_star": "5",
+                "customer_comments": "Absolutely love the quality and spacious design!"
+            },
+            {
+                "customer_name": "Lila Bennett",
+                "customer_star": "4",
+                "customer_comments": "Stylish, but the price is a bit high."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img17"
+            },
+            {
+                "src": "img18"
+            }
+        ],
+        "materials": [
+            {
+                "product_imgs": "img",
+                "material": "leather",
+                "color_options": [
+                    {
+                        "color": "classic black",
+                        "price": "160"
+                    },
+                    {
+                        "color": "caramel brown",
+                        "price": "150"
+                    }
+                ]
+            },
+            {
+                "product_imgs": "img",
+                "material": "canvas",
+                "color_options": [
+                    {
+                        "color": "navy blue",
+                        "price": "140"
+                    },
+                    {
+                        "color": "gray",
+                        "price": "150"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Luxury Tote Collection",
+        "available": "30",
+        "product_available": true,
+        "type": "handbag",
+        "sell_price": "150",
+        "origin_price": "200",
+        "reviews": [
+            {
+                "customer_name": "Eva Walker",
+                "customer_star": "5",
+                "customer_comments": "Absolutely love the quality and spacious design!"
+            },
+            {
+                "customer_name": "Lila Bennett",
+                "customer_star": "4",
+                "customer_comments": "Stylish, but the price is a bit high."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img17"
+            },
+            {
+                "src": "img18"
+            }
+        ],
+        "materials": [
+            {
+                "product_imgs": "img",
+                "material": "leather",
+                "color_options": [
+                    {
+                        "color": "classic black",
+                        "price": "160"
+                    },
+                    {
+                        "color": "caramel brown",
+                        "price": "150"
+                    }
+                ]
+            },
+            {
+                "product_imgs": "img",
+                "material": "canvas",
+                "color_options": [
+                    {
+                        "color": "navy blue",
+                        "price": "140"
+                    },
+                    {
+                        "color": "gray",
+                        "price": "150"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Graceful Elegance Earrings",
+        "available": "25",
+        "product_available": true,
+        "type": "jewelry",
+        "sell_price": "80",
+        "origin_price": "100",
+        "reviews": [
+            {
+                "customer_name": "Natalie Carter",
+                "customer_star": "5",
+                "customer_comments": "Absolutely stunning! Perfect for special occasions."
+            },
+            {
+                "customer_name": "Emma Turner",
+                "customer_star": "4",
+                "customer_comments": "Beautiful design, but a bit heavy."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img19"
+            },
+            {
+                "src": "img20"
+            }
+        ],
+        "materials": [
+            {
+                "product_imgs": "img",
+                "material": "gold-plated",
+                "design_options": [
+                    {
+                        "design": "filigree drop",
+                        "price": "90"
+                    },
+                    {
+                        "design": "pearl studs",
+                        "price": "80"
+                    }
+                ]
+            },
+            {
+                "product_imgs": "img",
+                "material": "silver",
+                "design_options": [
+                    {
+                        "design": "crystal hoops",
+                        "price": "85"
+                    },
+                    {
+                        "design": "teardrop dangles",
+                        "price": "80"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Summer Chic Sun Hat",
+        "available": "35",
+        "product_available": true,
+        "type": "accessory",
+        "sell_price": "45",
+        "origin_price": "55",
+        "reviews": [
+            {
+                "customer_name": "Sophia Evans",
+                "customer_star": "5",
+                "customer_comments": "Love the design and provides excellent sun protection!"
+            },
+            {
+                "customer_name": "Ella Foster",
+                "customer_star": "4",
+                "customer_comments": "Stylish, but the brim is a bit wide for my liking."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img21"
+            },
+            {
+                "src": "img22"
+            }
+        ],
+        "styles": [
+            {
+                "product_imgs": "img",
+                "style": "wide brim",
+                "color_options": [
+                    {
+                        "color": "natural beige",
+                        "price": "50"
+                    },
+                    {
+                        "color": "pastel pink",
+                        "price": "45"
+                    }
+                ]
+            },
+            {
+                "product_imgs": "img",
+                "style": "floppy hat",
+                "color_options": [
+                    {
+                        "color": "navy blue",
+                        "price": "45"
+                    },
+                    {
+                        "color": "coral orange",
+                        "price": "48"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Boho Chic Bracelet Set",
+        "available": "50",
+        "product_available": true,
+        "type": "jewelry",
+        "sell_price": "35",
+        "origin_price": "45",
+        "reviews": [
+            {
+                "customer_name": "Mia Thompson",
+                "customer_star": "5",
+                "customer_comments": "Adorable set, perfect for stacking!"
+            },
+            {
+                "customer_name": "Zoe Rodriguez",
+                "customer_star": "4",
+                "customer_comments": "Love the variety, but some beads are a bit loose."
+            }
+        ],
+        "product_imgs": [
+            {
+                "src": "img23"
+            },
+            {
+                "src": "img24"
+            }
+        ],
+        "materials": [
+            {
+                "product_imgs": "img",
+                "material": "wood",
+                "bead_design_options": [
+                    {
+                        "design": "geometric pattern",
+                        "price": "40"
+                    },
+                    {
+                        "design": "natural finish",
+                        "price": "35"
+                    }
+                ]
+            },
+            {
+                "product_imgs": "img",
+                "material": "glass",
+                "bead_design_options": [
+                    {
+                        "design": "pastel hues",
+                        "price": "38"
+                    },
+                    {
+                        "design": "crystal accents",
+                        "price": "42"
+                    }
+                ]
+            }
+        ]
+    }
+]
