@@ -20,40 +20,45 @@
         ],
         "product_imgs": [
             {
-                "src": "img1"
+                "src": "https://m.media-amazon.com/images/I/714x-TpRrXL._AC_SY575_.jpg"
             },
             {
-                "src": "img2"
+                "src": "https://m.media-amazon.com/images/I/61bt-ix1bYL._AC_SY575_.jpg"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/71YFSFclCqL._AC_SY575_.jpg",
                 "product_color": "black",
-                "price": "40"
+                "sell_price": "55",
+                "origin_price": "40"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/61XIG0DOQ2L._AC_SY575_.jpg",
                 "product_color": "white",
-                "price": "80"
+                "sell_price": "60",
+                "origin_price": "50"
             }
         ],
         "size": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/513l8fsZ-TL._AC_SY575_.jpg",
                 "product_size": "L",
-                "price": "20"
+                "sell_price": "55",
+                "origin_price": "40"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/71P-lP3Y+ML._AC_SY575_.jpg",
                 "product_size": "XL",
-                "price": "120"
+                "sell_price": "60",
+                "origin_price": "50"
             }
         ]
     },
     {
         "name": "Casual Sneakers",
         "available": "12",
+        "product_available": true,
         "type": "shoes",
         "sell_price": "60",
         "origin_price": "70",
@@ -71,40 +76,45 @@
         ],
         "product_imgs": [
             {
-                "src": "img3"
+                "src": "https://m.media-amazon.com/images/I/718hD4L1Y0L._AC_SY575_.jpg"
             },
             {
-                "src": "img4"
+                "src": "https://m.media-amazon.com/images/I/71xFXoccLtL._AC_SX575_.jpg"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/71kTAlYXG5L._AC_SY575_.jpg",
                 "product_color": "blue",
-                "price": "45"
+                "sell_price": "46",
+                "origin_price": "40"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/71kTAlYXG5L._AC_SY575_.jpg",
                 "product_color": "red",
-                "price": "65"
+                "sell_price": "80",
+                "origin_price": "20"
             }
         ],
         "size": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/71581D6slmL._AC_SX575_.jpg",
                 "product_size": "M",
-                "price": "25"
+                "sell_price": "46",
+                "origin_price": "40"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/815KGjgUvTL._AC_SX575_.jpg",
                 "product_size": "L",
-                "price": "30"
+                "sell_price": "80",
+                "origin_price": "20"
             }
         ]
     },
     {
         "name": "Summer Floral Dress",
         "available": "10",
+        "product_available": true,
         "type": "dress",
         "sell_price": "120",
         "origin_price": "150",
@@ -122,22 +132,24 @@
         ],
         "product_imgs": [
             {
-                "src": "img5"
+                "src": "https://m.media-amazon.com/images/I/61ccWULpnIL._AC_SY550_.jpg"
             },
             {
-                "src": "img6"
+                "src": "https://m.media-amazon.com/images/I/610Gkg6n0oL._AC_SY550_.jpg"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/61P3kAZcBgL._AC_SX466_.jpg",
                 "product_color": "yellow",
-                "price": "130"
+                "sell_price": "140",
+                "origin_price": "180"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/81QWErS7UzL._AC_SY550_.jpg",
                 "product_color": "blue",
-                "price": "140"
+                "sell_price": "140",
+                "origin_price": "160"
             }
         ]
     },
@@ -145,6 +157,7 @@
         "name": "Glamorous Handbag",
         "available": "5",
         "type": "accessory",
+        "product_available": false,
         "sell_price": "120",
         "origin_price": "150",
         "reviews": [
@@ -161,40 +174,31 @@
         ],
         "product_imgs": [
             {
-                "src": "img3"
+                "src": "https://m.media-amazon.com/images/I/615D+PilSXL._AC_SY575_.jpg"
             },
             {
-                "src": "img4"
+                "src": "https://m.media-amazon.com/images/I/615D+PilSXL._AC_SY575_.jpg"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/71RW69g8UUL._AC_SY575_.jpg",
                 "product_color": "pink",
-                "price": "130"
+                "sell_price": "88",
+                "origin_price": "77"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/A1EzFLeIFVL._AC_SX575_.jpg",
                 "product_color": "gold",
-                "price": "150"
-            }
-        ],
-        "size": [
-            {
-                "product_imgs": "img",
-                "product_size": "M",
-                "price": "120"
-            },
-            {
-                "product_imgs": "img",
-                "product_size": "L",
-                "price": "140"
+                "sell_price": "80",
+                "origin_price": "66"
             }
         ]
     },
     {
         "name": "TechMaster Pro Earphones",
         "available": "10",
+        "product_available": true,
         "type": "electronics",
         "sell_price": "60",
         "origin_price": "80",
@@ -212,34 +216,24 @@
         ],
         "product_imgs": [
             {
-                "src": "img5"
+                "src": "https://m.media-amazon.com/images/I/71ueh0pKxDL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
             },
             {
-                "src": "img6"
+                "src": "https://m.media-amazon.com/images/I/71dPiUFmXyL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/71dPiUFmXyL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
                 "product_color": "black",
-                "price": "60"
+                "sell_price": "24",
+                "origin_price": "80"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/61Ngp-G8qYL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
                 "product_color": "red",
-                "price": "70"
-            }
-        ],
-        "size": [
-            {
-                "product_imgs": "img",
-                "product_size": "S",
-                "price": "60"
-            },
-            {
-                "product_imgs": "img",
-                "product_size": "M",
-                "price": "60"
+                "sell_price": "44",
+                "origin_price": "60"
             }
         ]
     },
@@ -263,34 +257,56 @@
         ],
         "product_imgs": [
             {
-                "src": "img7"
+                "src": "https://m.media-amazon.com/images/I/61ACTKn3rGL._AC_SY675_.jpg"
             },
             {
-                "src": "img8"
+                "src": "https://m.media-amazon.com/images/I/71dmF9XewZL._AC_SX569_.jpg"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/61LNM8MrPEL._AC_SY675_.jpg",
                 "product_color": "silver",
-                "price": "350"
+                "sell_price": "250",
+                "origin_price": "500"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/61mVcpgibaL._AC_SY675_.jpg",
                 "product_color": "gold",
-                "price": "400"
+                "sell_price": "250",
+                "origin_price": "500"
+            },
+            {
+                "product_imgs": "https://m.media-amazon.com/images/I/61ERzs3qDfL._AC_SY675_.jpg",
+                "product_color": "pink",
+                "sell_price": "250",
+                "origin_price": "500"
+            },
+            {
+                "product_imgs": "https://m.media-amazon.com/images/I/61qVCXo23kL._AC_SY675_.jpg",
+                "product_color": "black",
+                "sell_price": "250",
+                "origin_price": "500"
+            },
+            {
+                "product_imgs": "https://m.media-amazon.com/images/I/61sowGK8nfL._AC_SY675_.jpg",
+                "product_color": "orange",
+                "sell_price": "250",
+                "origin_price": "500"
             }
         ],
         "size": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/710c3N1oOyL._AC_SY675_.jpg",
                 "product_size": "Standard",
-                "price": "350"
+                "sell_price": "249",
+                "origin_price": "250"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/71dmF9XewZL._AC_SX569_.jpg",
                 "product_size": "Limited Edition",
-                "price": "550"
+                "sell_price": "450",
+                "origin_price": "500"
             }
         ]
     },
