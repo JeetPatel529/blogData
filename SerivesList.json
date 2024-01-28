@@ -1,6 +1,6 @@
 [
     {
-        "title": "All Type Card Work",
+        "title": "All Type Government Work",
         "services": [
             {
                 "link": "",
@@ -13,56 +13,128 @@
             {
                 "link": "",
                 "link_name": "Election card work"
+            },
+            {
+                "link": "",
+                "link_name": "Ayushman card"
+            },
+            {
+                "link": "",
+                "link_name": "E - Shram card"
             },
             {
                 "link": "",
                 "link_name": "Passport work"
+            },
+            {
+                "link": "",
+                "link_name": "Light bill work"
+            },
+            {
+                "link": "",
+                "link_name": "Birth and Death certificate"
+            },
+            {
+                "link": "",
+                "link_name": "All Vehicle Ticket Booking"
+            },
+            {
+                "link": "",
+                "link_name": "all R.T.O work"
+            },
+            {
+                "link": "",
+                "link_name": "Aavak na Dakhla Work"
+            },
+            {
+                "link": "",
+                "link_name": "Vridha Pension yojana work"
+            },
+            {
+                "link": "",
+                "link_name": "vidhva sahay yojana"
             }
         ],
-        "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, cupiditate saepe! Placeat vitae voluptas laudantium, iusto ipsam natus dolorem praesentium unde facere mollitia dolores itaque laboriosam eaque quos pariatur, molestias omnis nesciunt."
+        "subtitle": "Simplify Government Processes with  – Your Trusted Partner for Aadhar, PAN, Passport, and More!"
     },
     {
-        "title": "All Type Card Work",
+        "title": "Tools from us",
         "services": [
             {
                 "link": "",
-                "link_name": "Aadhar card work"
+                "link_name": "Leptop"
             },
             {
                 "link": "",
-                "link_name": "Pan Card Work"
+                "link_name": "Color Printer - all in one"
             },
             {
                 "link": "",
-                "link_name": "Election card work"
+                "link_name": "Black and White Printer"
             },
             {
                 "link": "",
-                "link_name": "Passport work"
+                "link_name": "Lamination Machine"
+            },
+            {
+                "link": "",
+                "link_name": "Smart Card Machine"
+            },
+            {
+                "link": "",
+                "link_name": "Finger Print Machine"
+            },
+            {
+                "link": "",
+                "link_name": "Camera"
+            },
+            {
+                "link": "",
+                "link_name": "Stationery"
+            },
+            {
+                "link": "",
+                "link_name": "GST banner , Visiting Card"
+            },
+            {
+                "link": "",
+                "link_name": "Uniform , Furniture"
             }
         ],
-        "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, cupiditate saepe! Placeat vitae voluptas laudantium, iusto ipsam natus dolorem praesentium unde facere mollitia dolores itaque laboriosam eaque quos pariatur, molestias omnis nesciunt."
+        "subtitle": "Empowering Services with Top-notch Tools at  – Equipped with Laptops, Printers, and More!"
     },
     {
-        "title": "All Type Card Work",
+        "title": "Help for Business works",
         "services": [
             {
                 "link": "",
-                "link_name": "Aadhar card work"
+                "link_name": "Digital Signature work"
             },
             {
                 "link": "",
-                "link_name": "Pan Card Work"
+                "link_name": "Government Jobs Work"
             },
             {
                 "link": "",
-                "link_name": "Election card work"
+                "link_name": "banks all work"
             },
             {
                 "link": "",
                 "link_name": "all type of Passport work"
+            },
+            {
+                "link": "",
+                "link_name": "Insurance Work"
+            },
+            {
+                "link": "",
+                "link_name": "Vehicle Transfer application work"
+            },
+            {
+                "link": "",
+                "link_name": "Computer classes all type work"
             }
         ],
-        "subtitle": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, cupiditate saepe! Placeat vitae voluptas laudantium, iusto ipsam natus dolorem praesentium unde facere mollitia dolores itaque laboriosam eaque quos pariatur, molestias omnis nesciunt."
+        "subtitle": "Boost Your Business Journey with  – Offering Digital Signatures, Passport Assistance, and Beyond!"
     }
 ]
