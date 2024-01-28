@@ -1,6 +1,6 @@
 [
     {
-        "id": "6b7a3718-eea3-4159-87dd-6798cd423e66",
+        "id": "6b7a3718",
         "name": "Elegant High Heels",
         "available": "111",
         "product_available": true,
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "id": "457ab07b-8351-41c4-9e91-f6c009280f55",
+        "id": "457ab07b",
         "name": "Casual Sneakers",
         "available": "12",
         "product_available": true,
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "id": "906c71c0-f7d9-4b8b-bcc8-3d8454de4724",
+        "id": "906c71c0",
         "name": "Summer Floral Dress",
         "available": "10",
         "product_available": true,
@@ -157,7 +157,7 @@
         ]
     },
     {
-        "id": "680d8273-e363-464d-8c7d-ba8c28ad0b71",
+        "id": "680d8273",
         "name": "Glamorous Handbag",
         "available": "5",
         "type": "accessory",
