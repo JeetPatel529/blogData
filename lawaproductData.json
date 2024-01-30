@@ -337,32 +337,32 @@
         ],
         "product_imgs": [
             {
-                "src": "img9"
+                "src": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvTBgpTfJGw2JL78DWpQ9iKAIE_SaokvghlEqT_8WGzXg-N38dIbi7vTtala7cb4YE8MM_T1uScGew6_Ncp6K_3Sp0etkmlEu5ypLhTnHj"
             },
             {
-                "src": "img10"
+                "src": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRvTBgpTfJGw2JL78DWpQ9iKAIE_SaokvghlEqT_8WGzXg-N38dIbi7vTtala7cb4YE8MM_T1uScGew6_Ncp6K_3Sp0etkmlEu5ypLhTnHj"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS1uekxgHUsbXhHSvRYXr274eUNY4PmN09bALrtL9yO3jjl_ScafqNcTCbXqY_aiz1MQNQRuQL3mEz9sis_kQdTWEwbgaOCW6bTEmu18sr_g3GmPKANOkUtnas",
                 "product_color": "blue",
                 "price": "120"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS1uekxgHUsbXhHSvRYXr274eUNY4PmN09bALrtL9yO3jjl_ScafqNcTCbXqY_aiz1MQNQRuQL3mEz9sis_kQdTWEwbgaOCW6bTEmu18sr_g3GmPKANOkUtnas",
                 "product_color": "black",
                 "price": "130"
             }
         ],
         "size": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTgaSh04LR2Q8nhfFTqYY529DspcBxDqIoo-lzNQtM4rAh7Yf_27f7Hx-HRtlOI1OtSNzHZM3ow1PHAbg_mx8y4w8A0fOsYzxK9a07p-sDabWUmWftzi4V6",
                 "product_size": "Small",
                 "price": "120"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTHXEo-SfL544RB_GLWIPZAJiKNSt4OoHh3PVFyrxrYuQBxNnh5ZGPzaZz8h4qeZ5EWvBIlc6zLaRuA6U7VSkYO7wL2856b9WbOfXY8x67HWa_uZdbGFee5sA",
                 "product_size": "Medium",
                 "price": "120"
             }
@@ -390,42 +390,42 @@
         ],
         "product_imgs": [
             {
-                "src": "img3"
+                "src": "https://www.saintg.in/cdn/shop/files/Untitled-2FDJHDJ.jpg?v=1700304846&width=540"
             },
             {
-                "src": "img4"
+                "src": "https://www.saintg.in/cdn/shop/files/Untitled-2HGK.jpg?v=1700304198&width=540"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://www.saintg.in/cdn/shop/products/s2_79c83233-7161-462d-bbc7-c9dee89c08f7.jpg?v=1703488714&width=540",
                 "product_color": "red",
                 "price": "130"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://www.saintg.in/cdn/shop/products/23_524a39de-fd17-4942-927c-b3f2a24b6c03.png?v=1666162643&width=540",
                 "product_color": "brown",
                 "price": "120"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://www.saintg.in/cdn/shop/products/4_44229877-5d11-467c-93ad-02c94e87deeb.jpg?v=1644229394&width=540",
                 "product_color": "blue",
                 "price": "140"
             }
         ],
         "size": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://www.saintg.in/cdn/shop/products/608blk.jpg?v=1705742346&width=540",
                 "product_size": "M",
                 "price": "120"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://www.saintg.in/cdn/shop/products/46_213be9b0-d093-417d-b8a6-15cdf2096d7f.jpg?v=1644216558&width=540",
                 "product_size": "L",
                 "price": "130"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://www.saintg.in/cdn/shop/products/12_e340c3c0-8043-488d-86f5-4e4d5489e8d6.png?v=1666162058&width=540",
                 "product_size": "XL",
                 "price": "140"
             }
@@ -453,47 +453,47 @@
         ],
         "product_imgs": [
             {
-                "src": "img5"
+                "src": "https://i.etsystatic.com/29236970/r/il/bb3b6d/4517839694/il_570xN.4517839694_mlts.jpg"
             },
             {
-                "src": "img6"
+                "src": "https://i.etsystatic.com/25444869/r/il/2ddb90/3169259497/il_570xN.3169259497_675r.jpg"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://world-couture.com/wp-content/uploads/2022/10/unknown_164294382_934642407338720_1518019926484271979_n.jpg",
                 "product_color": "navy blue",
                 "price": "260"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/81TKWvxaxGL._AC_UF894,1000_QL80_.jpg",
                 "product_color": "emerald green",
                 "price": "250"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://i.pinimg.com/564x/aa/99/70/aa99709c1ea4e448092679eb651671ee.jpg",
                 "product_color": "burgundy",
                 "price": "270"
             }
         ],
         "size": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://cdn.shopify.com/s/files/1/2271/3213/files/2019-12-16_10h19_55_large.png?v=1576484776",
                 "product_size": "S",
                 "price": "250"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://alyceparis.com/cdn/shop/products/61321_BLACKPLUM_2_664bf841-5a0f-45fe-9367-f69ded3a05cb_2000x.jpg?v=1669161357",
                 "product_size": "M",
                 "price": "260"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://viviyshop.com/cdn/shop/files/vvv01.02_810f25db-d11d-4f4e-8f96-494fdfa560be.jpg?v=1694359149",
                 "product_size": "L",
                 "price": "270"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://d3thqe68ymbqps.cloudfront.net/2653073-large_default/on-zhu-red-simple-elegant-evening-dresses-deep-v-neck-empire-full-slee.jpg",
                 "product_size": "XL",
                 "price": "280"
             }
@@ -521,42 +521,42 @@
         ],
         "product_imgs": [
             {
-                "src": "img7"
+                "src": "https://assets.ajio.com/medias/sys_master/root/20230922/xLGf/650d5af6afa4cf41f5fd93c6/-473Wx593H-469505471-brown-MODEL4.jpg"
             },
             {
-                "src": "img8"
+                "src": "https://lukdope.com/cdn/shop/files/pebblely_13.jpg?v=1684842376"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71MomtbGLbL._AC_UY1000_.jpg",
                 "product_color": "black",
                 "price": "100"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://www.yourwdwstore.net/cdn-cgi/image/quality%3D85/assets/images/6/60000/2000/900/62950-s1.jpg",
                 "product_color": "wine red",
                 "price": "110"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://www.samuhmart.com/public/uploads/all/ivCK1HwbqVxr4olqzZwdHqdczHShfSF1klqP86cc.jpg",
                 "product_color": "taupe",
                 "price": "100"
             }
         ],
         "size": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://pixelbuddha.net/storage/41580/sophisticated-tote-bag-mockup-by-pixelbuddha-image-for-gallery-1.jpg",
                 "product_size": "small",
                 "price": "100"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://5.imimg.com/data5/SELLER/Default/2023/11/364105741/QF/EH/XK/203078576/ladies-orange-printed-cotton-tote-bag-500x500.jpg",
                 "product_size": "medium",
                 "price": "110"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://zouk.co.in/cdn/shop/products/37_a4c33f5a-ffc1-43ce-a876-e47768462f97.jpg?v=1646384492&width=1080",
                 "product_size": "large",
                 "price": "120"
             }
@@ -584,42 +584,42 @@
         ],
         "product_imgs": [
             {
-                "src": "img9"
+                "src": "https://m.media-amazon.com/images/I/71Kk6674j7L._AC_UY1000_.jpg"
             },
             {
-                "src": "img10"
+                "src": "https://m.media-amazon.com/images/I/514-2Pyc3NL._AC_UY1000_.jpg"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://publish.purewow.net/wp-content/uploads/sites/2/2023/03/most-comfortable-sneakers-for-women-tracksmith.jpg?fit=680%2C495",
                 "product_color": "gray",
                 "price": "60"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/23077180/2023/5/9/6aa54141-1aac-4359-942f-c4e7239567371683605849618CasualShoes1.jpg",
                 "product_color": "pink",
                 "price": "65"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/7190cWLT75L._AC_UY1000_.jpg",
                 "product_color": "teal",
                 "price": "60"
             }
         ],
         "size": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/RSL0286/2-800x800.jpg",
                 "product_size": "US 6",
                 "price": "60"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/81rW3Tc82US._AC_UY1000_.jpg",
                 "product_size": "US 8",
                 "price": "65"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/27/4224221/1.jpg?8814",
                 "product_size": "US 10",
                 "price": "70"
             }
@@ -647,47 +647,47 @@
         ],
         "product_imgs": [
             {
-                "src": "img11"
+                "src": "https://wearrae.com/cdn/shop/products/RAE_2July22_shot07081.jpg?v=1663156033&width=2048"
             },
             {
-                "src": "img12"
+                "src": "https://labelsugar.com/cdn/shop/files/DSC_9153copy_800x.jpg?v=1691997357"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://ambraee.com/cdn/shop/products/75_0608039e-e4b0-4516-bfc2-8b8d0c299482_1200x1200.jpg?v=1691223608",
                 "product_color": "yellow floral",
                 "price": "85"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://epiphanyclothingke.com/cdn/shop/products/IMG_9678-1.jpg?v=1662968802",
                 "product_color": "turquoise",
                 "price": "80"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://sunseeker-5857.kxcdn.com/images/products/SS91722/1641377521-M-SS91722_MO_1.jpg",
                 "product_color": "coral",
                 "price": "90"
             }
         ],
         "size": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://cdn11.bigcommerce.com/s-ox1rtno/images/stencil/1280x1280/products/13019/38753/EC123D10_01X__65473.1675275126.jpg?c=2",
                 "product_size": "XS",
                 "price": "80"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://d3v4qpjzw4kz8j.cloudfront.net/optimise/2023_08_24_Mollie_LoveSunshine117.webp?height=880&quality=75&signature=b307b3d9364075ac3cc3aacd5e4ec28cd0295f1ea8606ea0b20b4903f834235f&src0=uploads%2Fproduct_image%2Fphoto%2F64e76643b95ad34368f4cd8b%2F2023_08_24_Mollie_LoveSunshine117.jpg&version=20221026&watermark=false&width=550",
                 "product_size": "S",
                 "price": "80"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://www.selfieleslie.com/cdn/shop/files/ST4110D_20PLUM-5_2000x2999.jpg?v=1698215266",
                 "product_size": "M",
                 "price": "80"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://images.squarespace-cdn.com/content/v1/5174831ee4b084de2911741b/1494297254189-OXAVMHTS9IEQAIKG6MG5/image-asset.jpeg",
                 "product_size": "L",
                 "price": "90"
             }
@@ -715,42 +715,42 @@
         ],
         "product_imgs": [
             {
-                "src": "img13"
+                "src": "https://images-cdn.ubuy.co.in/635365315983f152ff2eb874-ayliss-mini-women-crossbody-handbag.jpg"
             },
             {
-                "src": "img14"
+                "src": "https://images-cdn.ubuy.co.id/635055a7e1a04b04e13bd6e4-clearance-sale-women-crossbody-bag-pu.jpg"
             }
         ],
         "colors": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://rukminim2.flixcart.com/image/850/1000/xif0q/bag/v/y/v/10-women-shoulder-bag-pouch-gift-chic-crossbody-bag-for-spring-original-imagvbuhcgxyfjqh.jpeg?q=90",
                 "product_color": "mauve",
                 "price": "70"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/a/tr:w-270,/fastrack_a1042pbl01_2_49aed2fb.jpg?rnd=20200526195200",
                 "product_color": "navy blue",
                 "price": "65"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://imagescdn.thecollective.in/img/app/product/8/805774-9557306.jpg",
                 "product_color": "olive green",
                 "price": "75"
             }
         ],
         "size": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://restartquick.com/wp-content/uploads/2023/01/Where-Should-a-Crossbody-Bag-Sit.webp",
                 "product_size": "small",
                 "price": "65"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://s.yimg.com/ny/api/res/1.2/hyUZWvkN0y8MVPJyMqi2lQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQ4MA--/https://media.zenfs.com/en/sheknows_ecomm_265/ed5796ccaf62d5716c40673f2da1188f",
                 "product_size": "medium",
                 "price": "70"
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://eco-chic.shop/cdn/shop/files/eco-chic-lightweight-foldable-crossbody-bag-flowers-grey-32702186029192_1024x1024.jpg?v=1693487068",
                 "product_size": "large",
                 "price": "75"
             }
