@@ -760,7 +760,7 @@
         "id": "9afcb2bb",
         "name": "Fashionista Sunglasses",
         "available": "40",
-        "product_available": true,
+        "product_available": false,
         "type": "accessory",
         "sell_price": "40",
         "origin_price": "50",
@@ -827,15 +827,15 @@
         ],
         "product_imgs": [
             {
-                "src": "img17"
+                "src": "https://1.bp.blogspot.com/-lALmn_kWzyA/YU3mxPzKd6I/AAAAAAAACo8/ScWZWM7mvk8to-gome3mu1WnlDt6RAA3ACLcBGAsYHQ/s1600/IMG_0644.jpg"
             },
             {
-                "src": "img18"
+                "src": "https://www.99fashionbrands.com/wp-content/uploads/2020/11/Cheapest-Country-To-Buy-Designer-Bags.jpeg"
             }
         ],
         "materials": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://shop.thevaultluxuryresale.com/cdn/shop/collections/shutterstock_526769962.jpg?v=1687368365",
                 "material": "leather",
                 "color_options": [
                     {
@@ -849,66 +849,7 @@
                 ]
             },
             {
-                "product_imgs": "img",
-                "material": "canvas",
-                "color_options": [
-                    {
-                        "color": "navy blue",
-                        "price": "140"
-                    },
-                    {
-                        "color": "gray",
-                        "price": "150"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": "319eab22",
-        "name": "Luxury Tote Collection",
-        "available": "30",
-        "product_available": true,
-        "type": "handbag",
-        "sell_price": "150",
-        "origin_price": "200",
-        "reviews": [
-            {
-                "customer_name": "Eva Walker",
-                "customer_star": "5",
-                "customer_comments": "Absolutely love the quality and spacious design!"
-            },
-            {
-                "customer_name": "Lila Bennett",
-                "customer_star": "4",
-                "customer_comments": "Stylish, but the price is a bit high."
-            }
-        ],
-        "product_imgs": [
-            {
-                "src": "img17"
-            },
-            {
-                "src": "img18"
-            }
-        ],
-        "materials": [
-            {
-                "product_imgs": "img",
-                "material": "leather",
-                "color_options": [
-                    {
-                        "color": "classic black",
-                        "price": "160"
-                    },
-                    {
-                        "color": "caramel brown",
-                        "price": "150"
-                    }
-                ]
-            },
-            {
-                "product_imgs": "img",
+                "product_imgs": "https://i0.wp.com/www.happyhighlife.com/wp-content/uploads/2023/07/20220401-20220401_094121.jpg?resize=1024%2C675&ssl=1",
                 "material": "canvas",
                 "color_options": [
                     {
@@ -945,15 +886,15 @@
         ],
         "product_imgs": [
             {
-                "src": "img19"
+                "src": "https://m.media-amazon.com/images/I/9160UAEIR8L._AC_UY1100_.jpg"
             },
             {
-                "src": "img20"
+                "src": "https://m.media-amazon.com/images/I/61kXzivq8jL._AC_UY1100_.jpg"
             }
         ],
         "materials": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://assets0.mirraw.com/images/8490877/image_zoom.jpeg?1606393034",
                 "material": "gold-plated",
                 "design_options": [
                     {
@@ -967,7 +908,7 @@
                 ]
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://925silverjaipur.com/media/catalog/product/cache/b5b649f110970d156ec7ba03d6ea25de/s/i/silver_swan_dual_tone_earring_6_1_.jpg",
                 "material": "silver",
                 "design_options": [
                     {
@@ -1004,15 +945,15 @@
         ],
         "product_imgs": [
             {
-                "src": "img21"
+                "src": "https://m.media-amazon.com/images/I/71EVjdF6GVL._AC_UY1100_.jpg"
             },
             {
-                "src": "img22"
+                "src": "https://i.etsystatic.com/10180836/r/il/bf5b0d/1445110196/il_570xN.1445110196_57ui.jpg"
             }
         ],
         "styles": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/71xBDrna0zL._AC_UF894,1000_QL80_.jpg",
                 "style": "wide brim",
                 "color_options": [
                     {
@@ -1026,7 +967,7 @@
                 ]
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71xBDrna0zL.jpg",
                 "style": "floppy hat",
                 "color_options": [
                     {
@@ -1063,15 +1004,15 @@
         ],
         "product_imgs": [
             {
-                "src": "img23"
+                "src": "https://m.media-amazon.com/images/I/61dhBOQQZaL._AC_UY1100_.jpg"
             },
             {
-                "src": "img24"
+                "src": "https://images-static.nykaa.com/media/catalog/product/e/8/e88b390ct-bng-49082_1.jpg"
             }
         ],
         "materials": [
             {
-                "product_imgs": "img",
+                "product_imgs": "https://m.media-amazon.com/images/I/71ZK+G7y9mL._AC_UY1100_.jpg",
                 "material": "wood",
                 "bead_design_options": [
                     {
@@ -1085,7 +1026,7 @@
                 ]
             },
             {
-                "product_imgs": "img",
+                "product_imgs": "https://i.etsystatic.com/16579938/r/il/9af719/5374469751/il_570xN.5374469751_25t7.jpg",
                 "material": "glass",
                 "bead_design_options": [
                     {
