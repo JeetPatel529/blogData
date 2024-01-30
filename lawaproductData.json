@@ -200,7 +200,7 @@
         ]
     },
     {
-        "id": "1684cda5-df4b-4287-ab15-291fc22e6ea1",
+        "id": "1684cda5",
         "name": "TechMaster Pro Earphones",
         "available": "10",
         "product_available": true,
@@ -243,7 +243,7 @@
         ]
     },
     {
-        "id": "a28566e0-b693-4250-832c-339488c70d79",
+        "id": "a28566e0",
         "name": "Luxury Timepiece Collection",
         "available": "15",
         "type": "watches",
@@ -317,7 +317,7 @@
         ]
     },
     {
-        "id": "4b552bff-7561-4cc1-b003-69a353222cde",
+        "id": "4b552bff",
         "name": "Ultimate Fitness Tracker",
         "available": "20",
         "type": "wearables",
@@ -369,7 +369,7 @@
         ]
     },
     {
-        "id": "a145768d-71e0-4f81-93b1-e5ce37cefa23",
+        "id": "a145768d",
         "name": "Chic Ankle Boots",
         "available": "89",
         "product_available": true,
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "id": "e89d642e-6bfc-446e-854b-529f6cf897ac",
+        "id": "e89d642e",
         "name": "Elegant Evening Gown",
         "available": "65",
         "product_available": true,
@@ -500,7 +500,7 @@
         ]
     },
     {
-        "id": "50e43718-13f8-42b2-94c9-c58eeb2680bd",
+        "id": "50e43718",
         "name": "Sophisticated Tote Bag",
         "available": "45",
         "product_available": true,
@@ -563,7 +563,7 @@
         ]
     },
     {
-        "id": "d1b1fbbc-423e-4878-a52d-0cc631d121e3",
+        "id": "d1b1fbbc",
         "name": "Casual Comfort Sneakers",
         "available": "75",
         "product_available": true,
@@ -626,7 +626,7 @@
         ]
     },
     {
-        "id": "6b457d51-eedc-4d04-9af7-9164d7f5e7c2",
+        "id": "6b457d51",
         "name": "Sunshine Maxi Dress",
         "available": "60",
         "product_available": true,
@@ -694,7 +694,7 @@
         ]
     },
     {
-        "id": "2b5a8c46-964d-44bf-9261-9d679fd995c1",
+        "id": "2b5a8c46",
         "name": "Chic Crossbody Bag",
         "available": "50",
         "product_available": true,
@@ -757,7 +757,7 @@
         ]
     },
     {
-        "id": "9afcb2bb-a7ce-488a-98d9-347b1db44e7e",
+        "id": "9afcb2bb",
         "name": "Fashionista Sunglasses",
         "available": "40",
         "product_available": true,
@@ -806,7 +806,7 @@
         ]
     },
     {
-        "id": "b417c197-4bd2-4233-b3b9-b86cce795e67",
+        "id": "b417c197",
         "name": "Luxury Tote Collection",
         "available": "30",
         "product_available": true,
@@ -865,7 +865,7 @@
         ]
     },
     {
-        "id": "319eab22-bb54-43eb-88e9-12ed0d2d1862",
+        "id": "319eab22",
         "name": "Luxury Tote Collection",
         "available": "30",
         "product_available": true,
@@ -924,7 +924,7 @@
         ]
     },
     {
-        "id": "384a14ee-6000-4327-b7f2-985893597beb",
+        "id": "384a14ee",
         "name": "Graceful Elegance Earrings",
         "available": "25",
         "product_available": true,
@@ -983,7 +983,7 @@
         ]
     },
     {
-        "id": "d9ba100e-6259-485d-81c4-920c864b2fa3",
+        "id": "d9ba100e",
         "name": "Summer Chic Sun Hat",
         "available": "35",
         "product_available": true,
@@ -1042,7 +1042,7 @@
         ]
     },
     {
-        "id": "71bfe520-b6b5-4bf3-908a-b1fcfea2a744",
+        "id": "71bfe520-b6b5",
         "name": "Boho Chic Bracelet Set",
         "available": "50",
         "product_available": true,
