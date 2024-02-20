@@ -1,0 +1,194 @@
+[
+    {
+        "id": "f92sdy",
+        "product": {
+            "name": "Elegant Sapphire Necklace",
+            "selling_price": 120,
+            "original_price": 180,
+            "description": "Adorn yourself with this exquisite sapphire necklace, crafted with precision and elegance. Elevate your style effortlessly.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1633810542706-90e5ff7557be?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Necklace",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "g78rtu",
+        "product": {
+            "name": "Glamorous Pearl Earrings",
+            "selling_price": 149,
+            "original_price": 199,
+            "description": "Add a touch of elegance to your ensemble with our glamorous pearl earrings. Perfect for both formal occasions and everyday wear.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "h54pqa",
+        "product": {
+            "name": "Sapphire and Diamond Ring",
+            "selling_price": 799,
+            "original_price": 999,
+            "description": "Exude sophistication with our stunning sapphire and diamond ring. This timeless piece is crafted to perfection, making it an exquisite addition to your jewelry collection.",
+            "images": [
+                {
+                    "url": "https://plus.unsplash.com/premium_photo-1675003662150-2569448d2b3b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "k32zpl",
+        "product": {
+            "name": "Emerald Pendant Necklace",
+            "selling_price": 299,
+            "original_price": 399,
+            "description": "Enhance your elegance with our emerald pendant necklace. The vibrant green hue of the emerald will captivate all who see it.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1610694955371-d4a3e0ce4b52?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "m76nqo",
+        "product": {
+            "name": "Ruby and Diamond Bracelet",
+            "selling_price": 899,
+            "original_price": 1199,
+            "description": "Make a statement with our luxurious ruby and diamond bracelet. The fiery red of the rubies paired with the sparkle of diamonds will add glamour to any occasion.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1611107683227-e9060eccd846?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "n98rst",
+        "product": {
+            "name": "Gold Hoop Earrings",
+            "selling_price": 149,
+            "original_price": 199,
+            "description": "Complete your look with our classic gold hoop earrings. Versatile and timeless, they are a must-have addition to your jewelry collection.",
+            "images": [
+                {
+                    "url": "https://plus.unsplash.com/premium_photo-1675107360276-b3f632199ce8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p47mno",
+        "product": {
+            "name": "Diamond Tennis Bracelet",
+            "selling_price": 1999,
+            "original_price": 2499,
+            "description": "Indulge in luxury with our stunning diamond tennis bracelet. Each diamond is meticulously set to create a dazzling display of brilliance.",
+            "images": [
+                {
+                    "url": "https://plus.unsplash.com/premium_photo-1671641737535-d717a70d6d51?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "q85abc",
+        "product": {
+            "name": "Pearl Strand Necklace",
+            "selling_price": 499,
+            "original_price": 699,
+            "description": "Elevate your style with our timeless pearl strand necklace. The lustrous pearls exude sophistication and grace.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1600721391689-2564bb8055de?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "r23xyz",
+        "product": {
+            "name": "Silver Stud Earrings",
+            "selling_price": 79,
+            "original_price": 99,
+            "description": "Add a touch of understated elegance with our chic silver stud earrings. Perfect for everyday wear or special occasions.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1475179593777-bd12fd56b85d?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "s34def",
+        "product": {
+            "name": "Diamond Solitaire Ring",
+            "selling_price": 1599,
+            "original_price": 1999,
+            "description": "Capture hearts with our exquisite diamond solitaire ring. Its timeless design and sparkling diamond will symbolize your everlasting love.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1603974372039-adc49044b6bd?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "t56ghi",
+        "product": {
+            "name": "Opal Pendant Necklace",
+            "selling_price": 349,
+            "original_price": 449,
+            "description": "Embrace your unique style with our mesmerizing opal pendant necklace. The iridescent opal will add a mystical touch to any outfit.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1566977744254-f6c97ca4891f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dg"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    },
+    {
+        "id": "u78jkl",
+        "product": {
+            "name": "Emerald Cut Diamond Earrings",
+            "selling_price": 899,
+            "original_price": 1199,
+            "description": "Dazzle and impress with our stunning emerald cut diamond earrings. The sophisticated cut enhances the brilliance of the diamonds.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1619095383688-b9fd80f2b916?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "product_type": 1
+        }
+    }
+]
