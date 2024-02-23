@@ -12,6 +12,7 @@
                 }
             ],
             "category": "Necklace",
+            "famous": 0,
             "product_type": 1
         }
     },
@@ -28,6 +29,7 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 0,
             "product_type": 1
         }
     },
@@ -44,6 +46,7 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 1,
             "product_type": 1
         }
     },
@@ -60,6 +63,7 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 0,
             "product_type": 1
         }
     },
@@ -76,6 +80,7 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 1,
             "product_type": 1
         }
     },
@@ -92,6 +97,7 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 0,
             "product_type": 1
         }
     },
@@ -108,6 +114,7 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 1,
             "product_type": 1
         }
     },
@@ -124,6 +131,7 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 0,
             "product_type": 1
         }
     },
@@ -140,6 +148,7 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 1,
             "product_type": 1
         }
     },
@@ -156,6 +165,7 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 0,
             "product_type": 1
         }
     },
@@ -172,6 +182,7 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 1,
             "product_type": 1
         }
     },
@@ -188,6 +199,211 @@
                 }
             ],
             "category": "Jewelry",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "v90pqr",
+        "product": {
+            "name": "Rose Gold Engagement Ring",
+            "selling_price": 1299,
+            "original_price": 1599,
+            "description": "Declare your love with our exquisite rose gold engagement ring. Its timeless design and sparkling diamond will signify your eternal commitment.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1576614639604-6de5a2a9d7b7?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "w23xyz",
+        "product": {
+            "name": "Silver Locket Necklace",
+            "selling_price": 199,
+            "original_price": 249,
+            "description": "Keep your cherished memories close to your heart with our elegant silver locket necklace. A perfect gift for yourself or a loved one.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1588202572934-03461027f059?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "x45abc",
+        "product": {
+            "name": "Diamond Halo Pendant",
+            "selling_price": 499,
+            "original_price": 599,
+            "description": "Radiate elegance with our stunning diamond halo pendant. The halo of diamonds surrounding the center stone creates a mesmerizing sparkle.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1610054283891-9ae9c8f29c6c?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "y67def",
+        "product": {
+            "name": "Diamond Cluster Stud Earrings",
+            "selling_price": 599,
+            "original_price": 799,
+            "description": "Illuminate your look with our stunning diamond cluster stud earrings. The intricate arrangement of diamonds creates a captivating sparkle.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1592839314689-7a88e9dabf41?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "z78ghi",
+        "product": {
+            "name": "Diamond Tennis Necklace",
+            "selling_price": 2999,
+            "original_price": 3999,
+            "description": "Adorn yourself with our luxurious diamond tennis necklace. Each diamond is expertly set to create a breathtaking display of elegance.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1567991600479-0679946b13c6?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "a12jkl",
+        "product": {
+            "name": "Vintage Pearl Brooch",
+            "selling_price": 199,
+            "original_price": 299,
+            "description": "Make a statement with our elegant vintage pearl brooch. The classic design and lustrous pearls add a touch of sophistication to any ensemble.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1602281937133-e8f4c7bcf4f3?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "b45mno",
+        "product": {
+            "name": "Diamond Cluster Pendant",
+            "selling_price": 899,
+            "original_price": 1099,
+            "description": "Enhance your neckline with our dazzling diamond cluster pendant. The arrangement of diamonds creates a radiant and eye-catching centerpiece.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1606944505374-26e24b7345df?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "c56pqr",
+        "product": {
+            "name": "Rose Gold Heart Pendant",
+            "selling_price": 299,
+            "original_price": 399,
+            "description": "Express your love with our charming rose gold heart pendant. The delicate design and warm hue of rose gold make it a romantic gesture.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1588202532209-b484ec27d823?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "d78stu",
+        "product": {
+            "name": "Diamond Teardrop Earrings",
+            "selling_price": 699,
+            "original_price": 899,
+            "description": "Make a statement with our exquisite diamond teardrop earrings. The graceful design and dazzling diamonds will elevate any look.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1589811171586-fb7c70c76979?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "e34uvw",
+        "product": {
+            "name": "Sapphire Cluster Ring",
+            "selling_price": 799,
+            "original_price": 999,
+            "description": "Make a bold statement with our stunning sapphire cluster ring. The vibrant hues of sapphires create a captivating and luxurious look.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1607447304232-b2d4e3089c7f?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "f45xyz",
+        "product": {
+            "name": "Gold Chain Bracelet",
+            "selling_price": 249,
+            "original_price": 299,
+            "description": "Add a touch of elegance to your wrist with our classic gold chain bracelet. Its timeless design makes it a versatile accessory for any occasion.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1589452718396-d9037b1433e4?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "g67rst",
+        "product": {
+            "name": "Diamond Infinity Necklace",
+            "selling_price": 599,
+            "original_price": 799,
+            "description": "Symbolize eternal love with our exquisite diamond infinity necklace. The timeless design and sparkling diamonds make it a cherished keepsake.",
+            "images": [
+                {
+                    "url": "https://images.unsplash.com/photo-1618334059754-5cf2e32a861a?q=80&w=1920&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                }
+            ],
+            "category": "Jewelry",
+            "famous": 1,
             "product_type": 1
         }
     }
