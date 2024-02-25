@@ -2,28 +2,16 @@
     {
         "id": "f92sdy",
         "product": {
-            "name": "Elegant Sapphire Necklace",
+            "name": "antique long set",
             "selling_price": 120,
             "original_price": 180,
-            "description": "Adorn yourself with this exquisite sapphire necklace, crafted with precision and elegance. Elevate your style effortlessly.",
+            "description": "This is an exquisite antique long set, perfect for adding a touch of vintage elegance to any outfit.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1633810542706-90e5ff7557be?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                    "url": "https://images.unsplash.com/photo-1599459183200-59c7687a0275?q=80&w=1978&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                    "url": "https://plus.unsplash.com/premium_photo-1674748385760-d846825598ab?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                    "url": "https://images.unsplash.com/photo-1608508644127-ba99d7732fee?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                },
-                {
-                    "url": "https://images.unsplash.com/photo-1632434553802-d916ede9c85e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set"
                 }
             ],
-            "category": "Necklace",
+            "category": "antique_long_set",
             "famous": 0,
             "product_type": 1
         }
@@ -31,16 +19,16 @@
     {
         "id": "g78rtu",
         "product": {
-            "name": "Glamorous Pearl Earrings",
+            "name": "antique long set 1",
             "selling_price": 149,
             "original_price": 199,
-            "description": "Add a touch of elegance to your ensemble with our glamorous pearl earrings. Perfect for both formal occasions and everyday wear.",
+            "description": "Beautifully crafted antique long set with intricate detailing, sure to make a statement.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-1"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 0,
             "product_type": 1
         }
@@ -48,16 +36,16 @@
     {
         "id": "h54pqa",
         "product": {
-            "name": "Sapphire and Diamond Ring",
+            "name": "antique long set 2",
             "selling_price": 799,
             "original_price": 999,
-            "description": "Exude sophistication with our stunning sapphire and diamond ring. This timeless piece is crafted to perfection, making it an exquisite addition to your jewelry collection.",
+            "description": "Indulge in luxury with this stunning antique long set, featuring timeless design and exceptional craftsmanship.",
             "images": [
                 {
-                    "url": "https://plus.unsplash.com/premium_photo-1675003662150-2569448d2b3b?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-2"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 1,
             "product_type": 1
         }
@@ -65,16 +53,16 @@
     {
         "id": "k32zpl",
         "product": {
-            "name": "Emerald Pendant Necklace",
+            "name": "antique long set 3",
             "selling_price": 299,
             "original_price": 399,
-            "description": "Enhance your elegance with our emerald pendant necklace. The vibrant green hue of the emerald will captivate all who see it.",
+            "description": "Elevate your style with this charming antique long set, perfect for both casual and formal occasions.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1610694955371-d4a3e0ce4b52?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-3"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 0,
             "product_type": 1
         }
@@ -82,16 +70,16 @@
     {
         "id": "m76nqo",
         "product": {
-            "name": "Ruby and Diamond Bracelet",
+            "name": "antique long set 4",
             "selling_price": 899,
             "original_price": 1199,
-            "description": "Make a statement with our luxurious ruby and diamond bracelet. The fiery red of the rubies paired with the sparkle of diamonds will add glamour to any occasion.",
+            "description": "Make a statement with this luxurious antique long set, featuring intricate design and exceptional quality.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1611107683227-e9060eccd846?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-4"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 1,
             "product_type": 1
         }
@@ -99,16 +87,16 @@
     {
         "id": "n98rst",
         "product": {
-            "name": "Gold Hoop Earrings",
+            "name": "antique long set 5",
             "selling_price": 149,
             "original_price": 199,
-            "description": "Complete your look with our classic gold hoop earrings. Versatile and timeless, they are a must-have addition to your jewelry collection.",
+            "description": "Add a touch of elegance to your ensemble with this beautiful antique long set, perfect for special occasions.",
             "images": [
                 {
-                    "url": "https://plus.unsplash.com/premium_photo-1675107360276-b3f632199ce8?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-5"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 0,
             "product_type": 1
         }
@@ -116,16 +104,16 @@
     {
         "id": "p47mno",
         "product": {
-            "name": "Diamond Tennis Bracelet",
+            "name": "antique long set 6",
             "selling_price": 1999,
             "original_price": 2499,
-            "description": "Indulge in luxury with our stunning diamond tennis bracelet. Each diamond is meticulously set to create a dazzling display of brilliance.",
+            "description": "Make a bold statement with this luxurious antique long set, featuring intricate designs and high-quality craftsmanship.",
             "images": [
                 {
-                    "url": "https://plus.unsplash.com/premium_photo-1671641737535-d717a70d6d51?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-6"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 1,
             "product_type": 1
         }
@@ -133,16 +121,16 @@
     {
         "id": "q85abc",
         "product": {
-            "name": "Pearl Strand Necklace",
+            "name": "antique long set 7",
             "selling_price": 499,
             "original_price": 699,
-            "description": "Elevate your style with our timeless pearl strand necklace. The lustrous pearls exude sophistication and grace.",
+            "description": "Add a touch of elegance to your ensemble with this charming antique long set, perfect for both casual and formal occasions.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1600721391689-2564bb8055de?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-7"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 0,
             "product_type": 1
         }
@@ -150,16 +138,16 @@
     {
         "id": "r23xyz",
         "product": {
-            "name": "Silver Stud Earrings",
+            "name": "antique long set 8",
             "selling_price": 79,
             "original_price": 99,
-            "description": "Add a touch of understated elegance with our chic silver stud earrings. Perfect for everyday wear or special occasions.",
+            "description": "Add a touch of vintage charm to your jewelry collection with this affordable yet stylish antique long set.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1475179593777-bd12fd56b85d?q=80&w=2073&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-8"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 1,
             "product_type": 1
         }
@@ -167,16 +155,16 @@
     {
         "id": "s34def",
         "product": {
-            "name": "Diamond Solitaire Ring",
+            "name": "antique long set 9",
             "selling_price": 1599,
             "original_price": 1999,
-            "description": "Capture hearts with our exquisite diamond solitaire ring. Its timeless design and sparkling diamond will symbolize your everlasting love.",
+            "description": "Step into elegance with this exquisite antique long set, featuring timeless design and impeccable craftsmanship.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1603974372039-adc49044b6bd?q=80&w=1934&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-9"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 0,
             "product_type": 1
         }
@@ -184,16 +172,16 @@
     {
         "id": "t56ghi",
         "product": {
-            "name": "Opal Pendant Necklace",
+            "name": "antique long set 10",
             "selling_price": 349,
             "original_price": 449,
-            "description": "Embrace your unique style with our mesmerizing opal pendant necklace. The iridescent opal will add a mystical touch to any outfit.",
+            "description": "Make a statement with this sophisticated antique long set, perfect for adding a touch of glamour to any look.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1566977744254-f6c97ca4891f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dg"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-10"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 1,
             "product_type": 1
         }
@@ -201,16 +189,16 @@
     {
         "id": "u78jkl",
         "product": {
-            "name": "Emerald Cut Diamond Earrings",
+            "name": "antique long set 11",
             "selling_price": 899,
             "original_price": 1199,
-            "description": "Dazzle and impress with our stunning emerald cut diamond earrings. The sophisticated cut enhances the brilliance of the diamonds.",
+            "description": "Embrace timeless elegance with this exquisite antique long set, crafted with attention to detail and sophistication.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1619095383688-b9fd80f2b916?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/antique-long-set-11"
                 }
             ],
-            "category": "Jewelry",
+            "category": "antique_long_set",
             "famous": 0,
             "product_type": 1
         }
@@ -218,16 +206,16 @@
     {
         "id": "v90pqr",
         "product": {
-            "name": "Rose Gold Engagement Ring",
+            "name": "bangles",
             "selling_price": 1299,
             "original_price": 1599,
-            "description": "Declare your love with our exquisite rose gold engagement ring. Its timeless design and sparkling diamond will signify your eternal commitment.",
+            "description": "Enhance your look with these stunning bangles, featuring intricate designs and high-quality craftsmanship.",
             "images": [
                 {
-                    "url": "https://plus.unsplash.com/premium_photo-1661645473770-90d750452fa0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 1,
             "product_type": 1
         }
@@ -235,16 +223,16 @@
     {
         "id": "w23xyz",
         "product": {
-            "name": "Silver Locket Necklace",
+            "name": "bangles 1",
             "selling_price": 199,
             "original_price": 249,
-            "description": "Keep your cherished memories close to your heart with our elegant silver locket necklace. A perfect gift for yourself or a loved one.",
+            "description": "Complete your ensemble with these elegant bangles, perfect for adding a touch of sophistication to any outfit.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-1"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 0,
             "product_type": 1
         }
@@ -252,16 +240,16 @@
     {
         "id": "x45abc",
         "product": {
-            "name": "Diamond Halo Pendant",
+            "name": "bangles 2",
             "selling_price": 499,
             "original_price": 599,
-            "description": "Radiate elegance with our stunning diamond halo pendant. The halo of diamonds surrounding the center stone creates a mesmerizing sparkle.",
+            "description": "Make a statement with these bold and stylish bangles, designed to elevate your look with effortless glamour.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1608042314453-ae338d80c427?q=80&w=2010&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-2"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 1,
             "product_type": 1
         }
@@ -269,16 +257,16 @@
     {
         "id": "y67def",
         "product": {
-            "name": "Diamond Cluster Stud Earrings",
+            "name": "bangles 3",
             "selling_price": 599,
             "original_price": 799,
-            "description": "Illuminate your look with our stunning diamond cluster stud earrings. The intricate arrangement of diamonds creates a captivating sparkle.",
+            "description": "Add a touch of charm to your accessories collection with these delightful bangles, perfect for everyday wear.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1531995811006-35cb42e1a022?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-3"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 0,
             "product_type": 1
         }
@@ -286,16 +274,16 @@
     {
         "id": "z78ghi",
         "product": {
-            "name": "Diamond Tennis Necklace",
+            "name": "bangles 4",
             "selling_price": 2999,
             "original_price": 3999,
-            "description": "Adorn yourself with our luxurious diamond tennis necklace. Each diamond is expertly set to create a breathtaking display of elegance.",
+            "description": "Make a statement with these luxurious bangles, featuring intricate designs and exceptional craftsmanship.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1599458349289-18f0ee82e6ed?q=80&w=1978&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-4"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 1,
             "product_type": 1
         }
@@ -303,16 +291,16 @@
     {
         "id": "a12jkl",
         "product": {
-            "name": "Vintage Pearl Brooch",
+            "name": "bangles 5",
             "selling_price": 199,
             "original_price": 299,
-            "description": "Make a statement with our elegant vintage pearl brooch. The classic design and lustrous pearls add a touch of sophistication to any ensemble.",
+            "description": "Complete your look with these versatile bangles, perfect for adding a touch of elegance to any outfit.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1633934542430-0905ccb5f050?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-5"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 0,
             "product_type": 1
         }
@@ -320,16 +308,16 @@
     {
         "id": "b45mno",
         "product": {
-            "name": "Diamond Cluster Pendant",
+            "name": "bangles 6",
             "selling_price": 899,
             "original_price": 1099,
-            "description": "Enhance your neckline with our dazzling diamond cluster pendant. The arrangement of diamonds creates a radiant and eye-catching centerpiece.",
+            "description": "Make a statement with these chic and trendy bangles, designed to elevate your style with effortless sophistication.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1603561596112-0a132b757442?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-6"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 1,
             "product_type": 1
         }
@@ -337,16 +325,16 @@
     {
         "id": "c56pqr",
         "product": {
-            "name": "Rose Gold Heart Pendant",
+            "name": "bangles 7",
             "selling_price": 299,
             "original_price": 399,
-            "description": "Express your love with our charming rose gold heart pendant. The delicate design and warm hue of rose gold make it a romantic gesture.",
+            "description": "Add a pop of color to your ensemble with these vibrant bangles, perfect for expressing your unique style.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-7"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 0,
             "product_type": 1
         }
@@ -354,16 +342,16 @@
     {
         "id": "d78stu",
         "product": {
-            "name": "Diamond Teardrop Earrings",
+            "name": "bangles 8",
             "selling_price": 699,
             "original_price": 899,
-            "description": "Make a statement with our exquisite diamond teardrop earrings. The graceful design and dazzling diamonds will elevate any look.",
+            "description": "Enhance your sophistication with these elegant bangles, featuring timeless designs and superior craftsmanship.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1450297166380-cabe503887e5?q=80&w=2065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-8"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 1,
             "product_type": 1
         }
@@ -371,16 +359,16 @@
     {
         "id": "e34uvw",
         "product": {
-            "name": "Sapphire Cluster Ring",
+            "name": "bangles 9",
             "selling_price": 799,
             "original_price": 999,
-            "description": "Make a bold statement with our stunning sapphire cluster ring. The vibrant hues of sapphires create a captivating and luxurious look.",
+            "description": "Add a touch of glamour to your look with these stunning bangles, designed to dazzle and impress.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1535556116002-6281ff3e9f36?q=80&w=2058&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-9"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 0,
             "product_type": 1
         }
@@ -388,16 +376,16 @@
     {
         "id": "f45xyz",
         "product": {
-            "name": "Gold Chain Bracelet",
+            "name": "bangles 10",
             "selling_price": 249,
             "original_price": 299,
-            "description": "Add a touch of elegance to your wrist with our classic gold chain bracelet. Its timeless design makes it a versatile accessory for any occasion.",
+            "description": "Complete your accessory collection with these versatile bangles, perfect for adding a touch of sophistication to any look.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1511745564573-fec5d8b7e907?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-10"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
             "famous": 0,
             "product_type": 1
         }
@@ -405,17 +393,425 @@
     {
         "id": "g67rst",
         "product": {
-            "name": "Diamond Infinity Necklace",
+            "name": "bangles 11",
             "selling_price": 599,
             "original_price": 799,
-            "description": "Symbolize eternal love with our exquisite diamond infinity necklace. The timeless design and sparkling diamonds make it a cherished keepsake.",
+            "description": "Embrace elegance with these sleek bangles, perfect for adding a touch of sophistication to your ensemble.",
             "images": [
                 {
-                    "url": "https://images.unsplash.com/photo-1619119069152-a2b331eb392a?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    "url": "https://image.jeetkasundra.com/bangles-11"
                 }
             ],
-            "category": "Jewelry",
+            "category": "bangles",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "g52rst",
+        "product": {
+            "name": "bangles 12",
+            "selling_price": 599,
+            "original_price": 799,
+            "description": "Make a bold statement with these eye-catching bangles, designed to showcase your unique sense of style.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/bangles-12"
+                }
+            ],
+            "category": "bangles",
             "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "g67rtt",
+        "product": {
+            "name": "bangles 13",
+            "selling_price": 599,
+            "original_price": 799,
+            "description": "Elevate your look with these stunning bangles, crafted with intricate details to capture attention wherever you go.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/bangles-13"
+                }
+            ],
+            "category": "bangles",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "g67rso",
+        "product": {
+            "name": "bangles 14",
+            "selling_price": 599,
+            "original_price": 799,
+            "description": "Add a touch of charm to your outfit with these elegant bangles, perfect for both casual and formal occasions.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/bangles-14"
+                }
+            ],
+            "category": "bangles",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "g67rs5",
+        "product": {
+            "name": "bangles 15",
+            "selling_price": 599,
+            "original_price": 799,
+            "description": "Make a statement of sophistication with these exquisite bangles, crafted to complement your unique style effortlessly.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/bangles-15"
+                }
+            ],
+            "category": "bangles",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "g67ast",
+        "product": {
+            "name": "bangles 16",
+            "selling_price": 599,
+            "original_price": 799,
+            "description": "Complete your ensemble with these versatile bangles, designed to add a touch of sophistication to any look.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/bangles-16"
+                }
+            ],
+            "category": "bangles",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "n67bso",
+        "product": {
+            "name": "necklace",
+            "selling_price": 120,
+            "original_price": 140,
+            "description": "Add a touch of elegance to your ensemble with this charming necklace. Perfect for both casual and formal occasions, this necklace will effortlessly elevate your look.  ",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/necklace"
+                }
+            ],
+            "category": "necklace",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "n32bs5",
+        "product": {
+            "name": "necklace 1",
+            "selling_price": 220,
+            "original_price": 260,
+            "description": "Make a statement with this stunning necklace. Crafted with intricate details, it is sure to capture attention wherever you go, adding a touch of glamour to your outfit.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set"
+                }
+            ],
+            "category": "necklace",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "n25amq",
+        "product": {
+            "name": "necklace 2",
+            "selling_price": 200,
+            "original_price": 240,
+            "description": "Complete your look with this stylish necklace. Featuring a timeless design, it is versatile enough to complement any outfit, making it a must-have accessory for your collection",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/necklace-2"
+                }
+            ],
+            "category": "necklace",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p00set",
+        "product": {
+            "name": "Pendant Set",
+            "selling_price": 199,
+            "original_price": 249,
+            "description": "Enhance your elegance with this exquisite pendant set. Crafted with intricate details, it adds a touch of sophistication to any ensemble.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p01set",
+        "product": {
+            "name": "Pendant Set 1",
+            "selling_price": 199,
+            "original_price": 249,
+            "description": "Enhance your elegance with this exquisite pendant set. Crafted with intricate details, it adds a touch of sophistication to any ensemble.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-1"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p02set",
+        "product": {
+            "name": "Pendant Set 2",
+            "selling_price": 299,
+            "original_price": 349,
+            "description": "Elevate your style with this stunning pendant set. Its timeless design and shimmering stones make it a versatile accessory for any occasion.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-2"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p03set",
+        "product": {
+            "name": "Pendant Set 3",
+            "selling_price": 159,
+            "original_price": 199,
+            "description": "Add a touch of glamour to your look with this charming pendant set. Its delicate design and sparkling stones exude elegance and grace.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-3"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p04set",
+        "product": {
+            "name": "Pendant Set 4",
+            "selling_price": 249,
+            "original_price": 299,
+            "description": "Make a style statement with this exquisite pendant set. Its intricate design and dazzling stones are sure to turn heads.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-4"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p05set",
+        "product": {
+            "name": "Pendant Set 5",
+            "selling_price": 199,
+            "original_price": 249,
+            "description": "Complete your ensemble with this elegant pendant set. Its classic design and timeless beauty make it a perfect accessory for any occasion.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-5"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p06set",
+        "product": {
+            "name": "Pendant Set 6",
+            "selling_price": 349,
+            "original_price": 399,
+            "description": "Add a touch of sophistication to your look with this exquisite pendant set. Its refined design and sparkling stones make it a must-have accessory.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-6"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p07set",
+        "product": {
+            "name": "Pendant Set 7",
+            "selling_price": 179,
+            "original_price": 219,
+            "description": "Elevate your style with this stunning pendant set. Its intricate design and shimmering stones add a touch of glamour to any outfit.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-7"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p08set",
+        "product": {
+            "name": "Pendant Set 8",
+            "selling_price": 299,
+            "original_price": 349,
+            "description": "Make a statement with this stunning pendant set. Its bold design and sparkling stones are sure to make you stand out.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-8"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p09set",
+        "product": {
+            "name": "Pendant Set 9",
+            "selling_price": 249,
+            "original_price": 299,
+            "description": "Add a touch of elegance to your ensemble with this charming pendant set. Its delicate design and shimmering stones exude sophistication.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-9"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p10set",
+        "product": {
+            "name": "Pendant Set 10",
+            "selling_price": 199,
+            "original_price": 249,
+            "description": "Complete your look with this stylish pendant set. Its timeless design and subtle elegance make it a perfect accessory for any occasion.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-10"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p11set",
+        "product": {
+            "name": "Pendant Set 11",
+            "selling_price": 349,
+            "original_price": 399,
+            "description": "Enhance your ensemble with this exquisite pendant set. Its intricate design and shimmering stones add a touch of glamour to any outfit.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-11"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p12set",
+        "product": {
+            "name": "Pendant Set 12",
+            "selling_price": 179,
+            "original_price": 219,
+            "description": "Make a style statement with this stunning pendant set. Its elegant design and sparkling stones are sure to capture attention.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-12"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p13set",
+        "product": {
+            "name": "Pendant Set 13",
+            "selling_price": 249,
+            "original_price": 299,
+            "description": "Add a touch of sophistication to your look with this charming pendant set. Its timeless design and delicate details make it a perfect accessory for any occasion.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-13"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 0,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p14set",
+        "product": {
+            "name": "Pendant Set 14",
+            "selling_price": 299,
+            "original_price": 349,
+            "description": "Elevate your elegance with this exquisite pendant set. Its intricate design and shimmering stones add a touch of luxury to any ensemble.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-14"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 1,
+            "product_type": 1
+        }
+    },
+    {
+        "id": "p15set",
+        "product": {
+            "name": "Pendant Set 15",
+            "selling_price": 199,
+            "original_price": 249,
+            "description": "Complete your look with this charming pendant set. Its delicate design and subtle elegance make it a perfect accessory for any occasion.",
+            "images": [
+                {
+                    "url": "https://image.jeetkasundra.com/pendant-set-15"
+                }
+            ],
+            "category": "pendant_set",
+            "famous": 0,
             "product_type": 1
         }
     }
